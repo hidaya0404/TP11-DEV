@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">LocalisationSmartphone</string>
+    <string name="title_app">Localisation Smartphone</string>
+    <string name="label_latitude">Latitude :</string>
+    <string name="label_longitude">Longitude :</string>
+    <string name="label_date">Date :</string>
+    <string name="label_imei">IMEI :</string>
+    <string name="label_status">Statut :</string>
+
+    <string name="btn_start">Démarrer la localisation</string>
+    <string name="btn_send">Envoyer au serveur</string>
+
+    <string name="status_waiting">En attente de position...</string>
+    <string name="status_permission_denied">Permission de localisation refusée.</string>
+    <string name="status_location_started">Écoute de la position démarrée.</string>
+    <string name="status_location_updated">Position détectée.</string>
+    <string name="status_send_success">Position envoyée avec succès.</string>
+    <string name="status_send_error">Erreur lors de l’envoi.</string>
+    <string name="status_no_position">Aucune position disponible.</string>
+</resources>
